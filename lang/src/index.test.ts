@@ -1,7 +1,7 @@
-import { expect } from "chai";
+import { expect } from 'chai';
 
-describe("test suite", () => {
-    it("nothing", () => {
+describe('test suite', () => {
+    it('nothing', () => {
         expect(true).to.equal(true);
     });
 });
